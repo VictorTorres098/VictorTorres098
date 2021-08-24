@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorTorres098
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in Webs and app development
 - 🌱 I’m currently learning java, javascript and python 
 - 💞️ I’m looking to collaborate on ...
